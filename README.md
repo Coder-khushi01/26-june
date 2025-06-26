@@ -18,6 +18,26 @@ types of shell.
 ~CSH
 ~KSH 
 
-
-FILE STRUCTURE
+ COMMAND
+ ls:lists the content of a directory.
+ whoami:displays the currents username.
+ date:show the current date and time.
+ cd: change the current directory
+ syntax:Cd directory_name
+ mkdir: creates a new directory
+ syntax:mkdir director_name 
+ cat:used to create a file with content
+ syntax :cat>filename
+ touch: creates an empty file.
+ syntax:touch filename
+ cp:copies  files from one location to another.
+ syntax:cp source_file.txt destination_file.txt
+ pwd: prints the current working directory.
+ synatx:pwd
+ whereis:loactes the command
+ syntax: where is command_name.
+ what is :provides a brief one line description of a command.
+ syntax:whatus command_ name
+ mv:Moves or renames files.
+ synatax: mv old_filename.txt new_Filename.txt
 
