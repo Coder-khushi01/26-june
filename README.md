@@ -70,5 +70,6 @@ she'll is the computer program that provides a interface for the userto use oper
  mv:Moves or renames files.
  
  synatax: mv old_filename.txt new_Filename.txt
- 
+ ![image](https://github.com/user-attachments/assets/5ba37ce9-ee9b-423f-8565-9f15521a35df)
+
 
